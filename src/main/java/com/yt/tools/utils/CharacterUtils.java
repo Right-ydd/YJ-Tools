@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * @date: 2018/6/7
  * @author: create by Right_ydd
- * @description: com.yt.tools.utils
+ * @description: 该类主要是汇集一些在工作中用到的对字符进行操作的工具方法
  */
 public class CharacterUtils {
 
